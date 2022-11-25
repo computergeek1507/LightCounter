@@ -1,8 +1,8 @@
 # Display Pixel Patern
 
-Loads a Video File and Identifies Lights in the video file.
+Display Pixel Count.
 
 ### Dependencies
 
-* .Net 5.0
-* NLog 4.7
+* .Net 7.0
+* NLog 5
